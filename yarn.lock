@@ -3978,9 +3978,11 @@
     "@types/react-native" "*"
 
 "@types/react-native-touch-id@^4.0.0":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@types/react-native-touch-id/-/react-native-touch-id-4.0.1.tgz#f4c784281d3c53f3473078f292c30edc3dd7d525"
-  integrity sha512-qHbSMjWCmcPp1b3wZ+uGK08pwKANmWMboxFYHS9vbXK2qZfXz1INemoHuuD7lo/rma7iJJoJFDtXdzVerfyXNQ==
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/@types/react-native-touch-id/-/react-native-touch-id-4.4.0.tgz#d1ee396ade66b8f6a153195e178462178839ad94"
+  integrity sha512-jAvoHmFC8c8soeUT/s/p7afGlSaIpNrSaKwMYxMkoQu1p18q9CRbcNeYtjahric8IGqvqLi7MM5iS98K1Cc5jQ==
+  dependencies:
+    react-native-touch-id "*"
 
 "@types/react-native-vector-icons@^6.4.5":
   version "6.4.6"
@@ -14814,7 +14816,7 @@ react-native-swiper@1.6.0:
   dependencies:
     prop-types "^15.5.10"
 
-react-native-touch-id@~4.4.0:
+react-native-touch-id@*, react-native-touch-id@~4.4.0:
   version "4.4.1"
   resolved "https://registry.yarnpkg.com/react-native-touch-id/-/react-native-touch-id-4.4.1.tgz#8b1bb2d04c30bac36bb9696d2d723e719c4a8b08"
   integrity sha512-1jTl8fC+0fxvqegy/XXTyo6vMvPhjzkoDdaqoYZx0OH8AT250NuXnNPyKktvigIcys3+2acciqOeaCall7lrvg==
