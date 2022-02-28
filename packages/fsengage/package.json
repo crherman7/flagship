@@ -11,7 +11,7 @@
     "tsc:watch": "tsc -w --preserveWatchOutput"
   },
   "dependencies": {
-    "@adobe/react-native-acpanalytics": "^1.2.6",
+    "@adobe/react-native-acpanalytics": "^2.0.0",
     "@adobe/react-native-acpcore": "^1.2.5",
     "@brandingbrand/fsfoundation": "^11.10.0",
     "@brandingbrand/fsnetwork": "^11.10.0",
