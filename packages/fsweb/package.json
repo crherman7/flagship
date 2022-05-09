@@ -41,7 +41,7 @@
     "http-proxy-middleware": "^1.0.5",
     "metro-react-native-babel-preset": "^0.57.0",
     "module-replace-webpack-plugin": "^0.0.12",
-    "path-to-regexp": "^1.7.0",
+    "path-to-regexp": "^6.2.1",
     "postcss": "^8.3.11",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^4.3.0",
