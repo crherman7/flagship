@@ -1,5 +1,0 @@
-{
-  "extends": "@tsconfig/node16/tsconfig.json",
-  "include": ["src/types/xcode.d.ts"],
-  "exclude": ["test"]
-}
